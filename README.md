@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 ### Name : Sowmiya N
 ### Roll no : 212221230106
-### Date of experiment : 
+### Date of experiment : 09.09.2022
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
