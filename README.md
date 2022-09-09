@@ -99,7 +99,7 @@ HLT;
 ![op](./emu8086/add6.png)
 ### End of the execution : 
 ![op](./emu8086/add7.png)
-### Status of various falgs :
+### Status of various flags :
 ![op](./emu8086/add8.png)
  
 ## Subtraction of 8-bit ALP : 
@@ -127,7 +127,7 @@ HLT;
 ![op](./emu8086/s7.png)
 ### End of the execution : 
 ![op](./emu8086/s8.png)
-### Status of various falgs :
+### Status of various flags :
 ![op](./emu8086/s9.png)
 
 ## Multiplication of 8-bit ALP :
@@ -155,7 +155,7 @@ HLT;
 ![op](./emu8086/m6.png)
 ### End of the execution : 
 ![op](./emu8086/m7.png)
-### Status of various falgs :
+### Status of various flags :
 ![op](./emu8086/m8.png)
 
 ## Division of 8-bit ALP :
@@ -183,7 +183,7 @@ HLT;
 ![op](./emu8086/d6.png)
 ### End of the execution : 
 ![op](./emu8086/d7.png)
-### Status of various falgs :
+### Status of various flags :
 ![op](./emu8086/d9.png)
 
 ## Result :
