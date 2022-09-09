@@ -87,15 +87,15 @@ HLT;
 
 ```
 ## Output :-
-### Load AX and BX register with the Numbers whose Addition has to be found :
+### Loading AX and BX register with the Numbers whose Addition has to be found :
 ![op](./emu8086/add1.png)
 ![op](./emu8086/add2.png)
 ![op](./emu8086/add3.png)
-### Perform 8-bit Addition using "AND" instructions : 
+### Performing 8-bit Addition using "AND" instructions : 
 ![op](./emu8086/add4.png)
-### Move the data to CX register :
+### Moving the data to CX register :
 ![op](./emu8086/add5.png)
-### Reset the AX register :
+### Resetting the AX register :
 ![op](./emu8086/add6.png)
 ### End of the execution : 
 ![op](./emu8086/add7.png)
@@ -115,15 +115,15 @@ MOV AH,00H;
 HLT;
 ```
 ## Output :-
-### Load AX and BX register with the Numbers whose Subtraction has to be found :
+### Loading AX and BX register with the Numbers whose Subtraction has to be found :
 ![op](./emu8086/s1.png)
 ![op](./emu8086/s2.png)
 ![op](./emu8086/s3.png)
-### Performe 8-bit Subtraction using "SUB" instructions :
+### Performing 8-bit Subtraction using "SUB" instructions :
 ![op](./emu8086/s4.png)
-### Move the data to CX register :
+### Moving the data to CX register :
 ![op](./emu8086/s5.png)
-### Reset the AX register :
+### Resetting the AX register :
 ![op](./emu8086/s7.png)
 ### End of the execution : 
 ![op](./emu8086/s8.png)
@@ -143,15 +143,15 @@ MOV AL,00H;
 HLT;
 ```
 ## Output :-
-### Load AL and BL register with the Numbers whose Multiplication has to be found :
+### Loading AL and BL register with the Numbers whose Multiplication has to be found :
 ![op](./emu8086/m1.png)
 ![op](./emu8086/m2.png)
 ![op](./emu8086/m3.png)
-### Performe 8-bit Multiplication using "MUL" instructions :
+### Performing 8-bit Multiplication using "MUL" instructions :
 ![op](./emu8086/m4.png)
-### Move the data to CL register :
+### Moving the data to CL register :
 ![op](./emu8086/m5.png)
-### Reset the AL register :
+### Resetting the AL register :
 ![op](./emu8086/m6.png)
 ### End of the execution : 
 ![op](./emu8086/m7.png)
@@ -171,15 +171,15 @@ MOV AL,00H;
 HLT;
 ```
 ## Output :-
-### Load AL and BL register with the Numbers whose Division has to be found :
+### Loading AL and BL register with the Numbers whose Division has to be found :
 ![op](./emu8086/d1.png)
 ![op](./emu8086/d2.png)
 ![op](./emu8086/d3.png)
-### Performe 8-bit Division using "DIV" instructions :
+### Performing 8-bit Division using "DIV" instructions :
 ![op](./emu8086/d4.png)
-### Move the data to CL register :
+### Moving the data to CL register :
 ![op](./emu8086/d5.png)
-### Reset the AL register :
+### Resetting the AL register :
 ![op](./emu8086/d6.png)
 ### End of the execution : 
 ![op](./emu8086/d7.png)
